@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.1"
+  },
+  "name": "inotebook",
+  "version": "1.0.0",
+  "description": "API for saving, updating and retriving data ",
+  "main": "index.js",
+  "author": "VIVEK YADAV",
+  "license": "MIT",
+  "private": false
+}

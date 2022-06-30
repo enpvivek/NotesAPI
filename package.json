@@ -5,7 +5,7 @@
   },
   "name": "inotebook",
   "version": "1.0.0",
-  "description": "API for saving, updating and retriving data ",
+  "description": "API for saving, updating and retrieving data",
   "main": "index.js",
   "author": "VIVEK YADAV",
   "license": "MIT",

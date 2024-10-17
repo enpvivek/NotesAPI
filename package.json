@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "express": "^4.18.1",
     "express-validator": "^6.14.2",
     "mongoose": "^6.4.1"
@@ -12,6 +13,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
